@@ -40,6 +40,10 @@ body{
     text-decoration: none;
 }
 
+.cabecalho__menu__link:hover{
+    color: var(--cor-secundaria);
+}
+
 .apresentacao{
     padding: 5% 15%;
     display: flex;
