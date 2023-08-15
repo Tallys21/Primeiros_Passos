@@ -27,7 +27,10 @@ body{
     font-size: 24px;
     font-weight: 600;
     color: #22D4FD;
-    text-decoration: none;
+}
+
+cabecalho__menu__link:hover{
+    color: #F6F6F6;
 }
 
 .apresentacao{
